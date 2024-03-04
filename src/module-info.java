@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author komkumar
+ *
+ */
+module Collection {
+}
